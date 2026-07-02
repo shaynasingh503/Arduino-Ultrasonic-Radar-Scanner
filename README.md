@@ -30,24 +30,6 @@ The Processing application visualizes the scanning process as a **green radar ar
 
 ---
 
-# ✨ Features
-
-✅ Real-Time Object Detection
-
-✅ Interactive Radar Visualization
-
-✅ Servo Controlled Scanning (15°–165°)
-
-✅ Detects Objects within 20 cm Radius
-
-✅ Arduino & Processing Integration
-
-✅ Live Serial Communication
-
-✅ Easy to Build and Understand
-
----
-
 # 🛠 Hardware Components
 
 | 🔧 Component | 📌 Quantity |
@@ -65,7 +47,6 @@ The Processing application visualizes the scanning process as a **green radar ar
 
 - 🖥 Arduino IDE
 - 🎨 Processing IDE
-- 💡 Embedded C
 - 🔌 Serial Communication
 
 ---
@@ -153,102 +134,6 @@ Arduino-Ultrasonic-Radar-Scanner
 │     ├── circuit_diagram.png
 │     ├── output.png
 │     └── working.gif
-│
-├── Video
-│     └── demo.mp4
-│
 ├── README.md
-└── LICENSE
 ```
 
----
-
-# 🚀 Technologies Used
-
-🟢 Arduino Programming
-
-🟢 Embedded C
-
-🟢 Processing IDE
-
-🟢 Sensor Interfacing
-
-🟢 Embedded Systems
-
-🟢 IoT
-
-🟢 Serial Communication
-
----
-
-# 🌟 Applications
-
-📡 Mini Radar System
-
-🚗 Obstacle Detection
-
-🤖 Robotics
-
-🏠 Smart Automation
-
-🚁 Drone Navigation
-
-🚘 Autonomous Vehicles
-
-🎓 Educational Demonstration
-
----
-
-# 🔮 Future Enhancements
-
-✨ Increase Detection Range
-
-📶 Add Bluetooth Connectivity
-
-🌐 IoT-Based Remote Monitoring
-
-🛰 360° Scanning using Stepper Motor
-
-📱 Mobile Application Integration
-
-📊 Data Logging
-
-🧠 AI-Based Object Recognition
-
----
-
-# 📈 Project Highlights
-
-🎯 Real-Time Detection
-
-⚡ Fast Response
-
-🔄 Continuous Scanning
-
-💻 Hardware + Software Integration
-
-🛠 Beginner Friendly
-
-📚 Excellent Embedded Systems Learning Project
-
----
-
-# 👩‍💻 Author
-
-## Shayna Singh
-
-🎓 Final Year B.Tech (ECE)
-
-🏫 VIT Bhopal University
-
-💡 Passionate about Embedded Systems, IoT & Smart Electronics
-
-🌟 Building Real-World Hardware + Software Solutions
-
----
-
-# ⭐ If you found this project useful...
-
-### 🌟 Please consider giving it a ⭐ on GitHub!
-
-It motivates me to build more exciting Embedded & IoT Projects. 🚀✨
