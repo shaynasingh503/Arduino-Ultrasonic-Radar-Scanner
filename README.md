@@ -54,43 +54,24 @@ The Processing application visualizes the scanning process as a **green radar ar
 # ⚙️ Working Principle
 
 ### 🔄 Step 1
-
 The **Servo Motor** continuously rotates from **15° to 165°**.
 
-⬇️
-
 ### 📡 Step 2
-
 The **HC-SR04 Ultrasonic Sensor** emits ultrasonic waves.
 
-⬇️
-
 ### 📏 Step 3
-
 The sensor receives the reflected waves and calculates the object's distance.
 
-⬇️
-
 ### 💬 Step 4
-
 Arduino sends the **Angle + Distance** through Serial Communication.
 
-⬇️
-
 ### 🖥 Step 5
-
 Processing IDE receives the data.
 
-⬇️
-
 ### 🎯 Step 6
-
 Detected objects appear as **Red Dots** on a **Green Radar Screen**.
 
-⬇️
-
 ### 🔁 Step 7
-
 The scanning process repeats continuously for real-time monitoring.
 
 ---
